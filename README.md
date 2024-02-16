@@ -12,4 +12,5 @@ This repository contains educational projects focused on Python concurrency conc
      - Another threading project showcasing the use of thread barriers.
 
 ### 2. Multiprocessing
+   - **multiprocessing:**
      - Project demonstrating concepts of multiprocessing in Python.
