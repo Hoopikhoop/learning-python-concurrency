@@ -1,0 +1,1 @@
+Input data for labs (threading) 10 & 12 (multiprocessing).
